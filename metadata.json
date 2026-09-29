@@ -1,0 +1,8 @@
+{
+  "name": "Student Life OS",
+  "description": "All-in-one command center for students: Study timetable, tasks, exams, career applications, budget, campus life, and an AI daily advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
